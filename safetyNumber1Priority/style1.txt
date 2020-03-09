@@ -1,0 +1,130 @@
+.a{
+    pointer-events:none;
+}
+.button {
+    border-radius: 50%;
+    padding: 16px;
+    cursor: pointer;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.button2 {
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 16px;
+    margin-left: 5px;
+    width: 34px;
+    height: 34px;
+}
+
+.button3 {
+    cursor: pointer;
+    background-color: lightgray;
+    font-size: 14px;
+    margin-left: 5px;
+    width: 214px;
+    height: 36px;
+    font-size: 14px;
+    color: #7F7F7F;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    border: none;
+    pointer-events:none;
+}
+
+
+.topRectangle {
+    position: absolute;
+    top: 0px;
+    margin-left: 80px;
+    height: 64px;
+    width: 1280px;
+    background-color: dodgerblue;
+    margin-bottom: 40px;
+}
+
+.texte {
+    text-align: left;
+    line-height: 20px;
+    display: block;
+}
+
+.titre {
+    text-align: left;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.titre2 {
+    text-align: left;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.texte span {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+    float: right;
+    width: 72%;
+    margin-right: 35px;
+    border: 0px;
+}
+
+.texteNoir {
+    font-size: 16px;
+    color: black;
+}
+
+.texteGris {
+    font-size: 14px;
+    color: gray;
+}
+
+.rectangle {
+    display: inline-block;
+    width: 336px;
+    height: 700px;
+    background-color: white;
+    float: left;
+    border: 0px;
+    padding: 0px 0px 0px 20px;
+    margin-left: 120px;
+    margin-top: 90px;
+    box-shadow: 1px 1px 2px grey;
+}
+
+.carré {
+    display: inline-block;
+    width: 249px;
+    height: 212px;
+    background-color: white;
+    float: left;
+    border: 0px;
+    margin-left: 120px;
+    margin-top: 90px;
+    box-shadow: 1px 1px 2px grey;
+    text-align: center;
+    line-height: 35px;
+}
+
+.lightTxt{
+    color: gray;
+    font-size: 14px;
+}
+.material-icons {
+    color: white;
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.txtPharos {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0px 0px 20px;
+}
